@@ -1,0 +1,21 @@
+part_id,model_name,part_name,category,compatible_brands,current_price
+1,Honda WB20XH,ซีลกันน้ำปั๊ม,Pump,SIMEC SP-20 / Kubota KWP-20,250
+2,Honda WB30XH,ใบพัดปั๊ม (Impeller),Pump,SIMEC SP-30 / Mitsubishi MPD-30,550
+3,Kubota KWP-20,แหวนรองกันสั่น,Pump,Honda WB20XH / SIMEC SP-20,90
+4,Mitsubishi MPD-30,ซีลปั๊มน้ำ 3 นิ้ว,Pump,Generic,320
+5,SIMEC SP-20,สปริงวาล์วเช็ค,Pump,Honda WB20XH / Kubota KWP-20,65
+6,Husqvarna 541RS,หัวเกียร์ตัดหญ้า,Trimmer,Makita / Kanto,450
+7,Makita RBC411U,ใบมีดตัดหญ้า 12 นิ้ว,Trimmer,All Brands,150
+8,Kanto KT-BC-411,สายสะพายเครื่องตัดหญ้า,Trimmer,All Brands,200
+9,Zomax ZMG4302,ชุดสตาร์ทเครื่องตัดหญ้า,Trimmer,Generic Chinese Brands,350
+10,STIHL FS 250,คลัตช์เครื่องตัดหญ้า,Trimmer,STIHL only,850
+11,Maruyama MS332,ปั๊มพ่นยา 3 สูบ,Sprayer,Generic,2500
+12,Tigger TG-767,สายพ่นยา 100 เมตร,Sprayer,All Brands,1200
+13,Kanto KT-767,ก้านพ่นยาทองเหลือง,Sprayer,All Brands,450
+14,Mitsubishi TU43,ซีลลูกสูบพ่นยา,Sprayer,Maruyama / Generic,120
+15,Honda GX35,ไส้กรองอากาศ,Engine,Honda / Kanto,180
+16,Generic 3-inch hose,ท่อดูดสายยาง 3 นิ้ว,Accessory,All Brands,325
+17,Generic 2-inch hose,ท่อดูดสายยาง 2 นิ้ว,Accessory,All Brands,250
+18,Spark Plug NGK CMR6H,หัวเทียน,Engine,All Brands,120
+19,Carburetor Walbro,คาร์บูเรเตอร์,Engine,Honda / Makita / Kanto,450
+20,Fuel Filter,กรองน้ำมันเบนซิน,Engine,All Brands,80
